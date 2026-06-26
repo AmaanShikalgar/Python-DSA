@@ -10,3 +10,5 @@ def secondLargest(arr):
     return sec_max
 arr = [10,24,45,21,44]
 print(secondLargest(arr))
+
+
