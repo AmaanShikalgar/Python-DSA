@@ -9,5 +9,5 @@ def binarySearch(arr,target):
             right=mid-1
         else:
             left=mid+1
-    return -1
-print(binarySearch([2,5,8,12,16,23,38,56,72],38))
+    return left
+print(binarySearch([2,5,8,12,16,23,38,56,72],71))
